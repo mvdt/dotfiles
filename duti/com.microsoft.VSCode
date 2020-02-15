@@ -1,13 +1,9 @@
-.c
-.cpp
-.h
-.hpp
-.hs
 .js
+.ts
 .py
 .sh
 .txt
 .list
 .lua
-.applescript
-.bib
+.markdown
+.json
